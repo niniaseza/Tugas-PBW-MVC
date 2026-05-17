@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-# 🌸 Florista — Toko Bunga
+# Florista 
 
 ## Deskripsi Proyek
 Florista adalah aplikasi berbasis web yang dibuat menggunakan framework Laravel dengan menerapkan konsep MVC (Model-View-Controller). Aplikasi ini membantu pengguna dalam mengelola katalog toko bunga secara lebih terstruktur. Pengguna dapat menambahkan koleksi bunga, melihat deskripsi dan makna dari setiap bunga. 
@@ -107,9 +106,9 @@ Pengguna dapat:
 
 ### Operasi CRUD
 Pengguna dapat:
-- ➕ Menambah bunga baru
-- ✏️ Mengedit informasi bunga
-- 🗑️ Menghapus bunga dari katalog
+- Menambah bunga baru
+- Mengedit informasi bunga
+- Menghapus bunga dari katalog
 
 ## Cara Menjalankan Proyek
 
@@ -219,6 +218,3 @@ http://127.0.0.1:8000
 - Bootstrap 5
 - Blade Template Engine
 - Arsitektur MVC
-=======
-# Tugas-PBW-MVC
->>>>>>> f1ec4c902a0d8616b2eb6cd312d1fac50d3fc7eb
